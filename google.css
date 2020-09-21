@@ -73,6 +73,7 @@
     padding-left: 38px;
     border: 0px ;
     box-shadow:  0px 0px 4px rgba(191,178,191,1);
+    text-decoration: none;
     border-radius: 50px;
 }
 .container form input[type=search]::-ms-clear { display: none; width : 0; height: 0; }
